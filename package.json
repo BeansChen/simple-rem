@@ -1,0 +1,23 @@
+{
+  "name": "simple-rem",
+  "version": "1.0.0",
+  "description": "移动端rem自适应解决方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeansChen/simple-rem.git"
+  },
+  "keywords": [
+    "rem",
+    "自适应"
+  ],
+  "author": "陈旭斌",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeansChen/simple-rem/issues"
+  },
+  "homepage": "https://github.com/BeansChen/simple-rem#readme"
+}
